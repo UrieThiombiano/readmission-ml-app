@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data/Models
+models/
+data/
+*.csv
+*.xlsx
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
